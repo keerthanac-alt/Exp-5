@@ -1,9 +1,3 @@
 GitLab is a web-based DevOps platform that unifies the entire software development lifecycle into a single application.
 
-Core Features
-• Version Control: Hosts Git repositories to track code changes, branch work, and roll back updates.
-• Merge Requests (MRs): Allows developers to propose, review, and discuss code changes before merging them into the main branch.
-• CI/CD Pipelines: Automatically builds, tests, and deploys code using YAML configuration files (.gitlab-ci.yml).
-• Issue & Project Tracking: Manages tasks, bug reports, and project milestones using boards similar to Kanban or Scrum.
-• Built-in Security: Scans code and dependencies for vulnerabilities automatically upon code push.
-• Deployment Options: Available as a cloud SaaS offering or self-hosted/on-premises instance
+
